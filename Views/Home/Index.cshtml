@@ -1,0 +1,14 @@
+﻿<h2>Welcome to MLVizz</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>Hello, @User.Identity.Name</p>
+    <a href="/Home/Secure">Secure Page</a>
+
+    <br />
+    <a href="/Auth/Logout">Logout</a>
+}
+else
+{
+    <a href="/Auth/Login">Login with Okta</a>
+}

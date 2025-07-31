@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnHirZpcEw4=",
+  "success": true,
+  "projectFilePath": "/Users/jomon/MLVizzOktaSSO/MLVizzOktaSSO.csproj",
+  "expectedPackageFiles": [
+    "/Users/jomon/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/9.0.7/microsoft.aspnetcore.authentication.openidconnect.9.0.7.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.abstractions/8.13.0/microsoft.identitymodel.abstractions.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.13.0/microsoft.identitymodel.jsonwebtokens.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.logging/8.13.0/microsoft.identitymodel.logging.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.protocols/8.13.0/microsoft.identitymodel.protocols.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.13.0/microsoft.identitymodel.protocols.openidconnect.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/microsoft.identitymodel.tokens/8.13.0/microsoft.identitymodel.tokens.8.13.0.nupkg.sha512",
+    "/Users/jomon/.nuget/packages/system.identitymodel.tokens.jwt/8.13.0/system.identitymodel.tokens.jwt.8.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
