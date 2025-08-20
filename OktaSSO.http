@@ -1,0 +1,6 @@
+@OktaSSO_HostAddress = http://localhost:5144
+
+GET {{OktaSSO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
