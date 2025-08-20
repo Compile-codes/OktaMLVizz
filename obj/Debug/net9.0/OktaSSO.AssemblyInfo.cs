@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OktaSSO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86e01bac03b893b336ca0c5005217de2a875ec0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OktaSSO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OktaSSO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
